@@ -30,8 +30,8 @@ first Web Dev Job.</p>
 
 <h2>Github stats</h2>
 
-![Sean-D-231121 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean-D-231121&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-D-231121&layout=compact&theme=radical)
+![Sean-D-231121 GitHub stats](https://github-readme-stats.vercel.app/api?username=Hello-there35&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hello-there35&layout=compact&theme=radical)
 
 
 <h1 align="center">Projects</h1>
