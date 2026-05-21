@@ -30,8 +30,7 @@ first Web Dev Job.</p>
 
 <h2>Github stats</h2>
 
-![Hello-there35 GitHub stats](https://github-readme-stats.vercel.app/api?username=Hello-there35&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hello-there35&layout=compact&theme=radical)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Hello-there35)](https://github.com/Hello-there35/github-readme-profile)
 
 
 <h1 align="center">Projects</h1>
